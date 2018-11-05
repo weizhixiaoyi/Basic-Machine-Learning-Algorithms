@@ -1,2 +1,1 @@
-# AIOneML
-**AIOneML == All In One Machine Learning**
+# AIOneML = All In One Machine Learning
