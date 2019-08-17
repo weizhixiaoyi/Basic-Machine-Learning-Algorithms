@@ -1,4 +1,4 @@
-# Basic Machine Learning Algorithms
+### Basic Machine Learning Algorithms
 
 ---
 网页版：https://weizhixiaoyi.com/paper.html
