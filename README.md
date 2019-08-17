@@ -1,7 +1,7 @@
 ### Basic Machine Learning Algorithms
 
 ---
-网页版：https://weizhixiaoyi.com/paper.html
+网页版：https://weizhixiaoyi.com/archive.html
 + Python系列教程
   + Python之MatPlotLib使用教程
   + Python之NumPy使用教程
@@ -32,10 +32,10 @@
 + 17.循环神经网络之前向反向传播算法
 + 18.LSTM神经网络之前向反向传播算法
 + 19.MCMC
-  + 19.1 MCMC之蒙特卡罗方法
-  + 19.2 MCMC之马尔可夫链
-  + 19.3 MCMC采样和M-H采样
-  + 19.4 Gibbs采样
+  + 19.1MCMC之蒙特卡罗方法
+  + 19.2MCMC之马尔可夫链
+  + 19.3MCMC采样和M-H采样
+  + 19.4Gibbs采样
 + 20.降维
   + 20.1机器学习降维之主成分分析-PCA
   + 20.2机器学习降维之奇异值分解-SVD
